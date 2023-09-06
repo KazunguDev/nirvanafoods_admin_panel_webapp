@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904111637056",
+    "project_id": "nirvana-foods-d9ef5",
+    "storage_bucket": "nirvana-foods-d9ef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904111637056:android:ff7c8e5ad63f9adc2f95a5",
+        "android_client_info": {
+          "package_name": "com.kazungudev.nirvanafoods_admin_panel_webapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904111637056-t60hkrqd1odl0l1a5ke98754i32q71eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgWeaU3t41w_-7VwQwtqtxzHtsTuAJLEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904111637056-t60hkrqd1odl0l1a5ke98754i32q71eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
