@@ -7,10 +7,10 @@ import 'package:flutter/material.dart';
 Future<void> main() async {
   await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyC6FoOYTCEsTg6usec--ldRa48moqV-cw4",
-        appId: "1:904111637056:web:e426ed6d2b54b0022f95a5",
-        messagingSenderId: "904111637056",
-        projectId: "nirvana-foods-d9ef5",
+        apiKey: "XXX",
+        appId: "XXX",
+        messagingSenderId: "XXX",
+        projectId: "XXX",
       )
   );
   runApp(const MyApp());
